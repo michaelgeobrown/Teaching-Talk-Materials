@@ -1,4 +1,4 @@
-﻿Major,Major_category,ShareWomen (std),Median Income (std)
+Major,Major_category,ShareWomen (std),Median Income (std)
 PHARMACOLOGY,Biology & Life Science,1.207471748,-0.084780466
 COGNITIVE SCIENCE AND BIOPSYCHOLOGY,Biology & Life Science,0.586372043,-0.388109502
 GENETICS,Biology & Life Science,0.371927517,-0.463941761
@@ -75,5 +75,3 @@ GEOLOGY AND EARTH SCIENCE,Physical Sciences,0.174768978,-0.752104345
 GEOSCIENCES,Physical Sciences,0.700004396,-0.767270797
 ATMOSPHERIC SCIENCES AND METEOROLOGY,Physical Sciences,-0.472625796,-0.843103056
 MULTI-DISCIPLINARY OR GENERAL SCIENCE,Physical Sciences,0.585388413,-0.843103056
-,Average,,
-,Standard Deviation,,
